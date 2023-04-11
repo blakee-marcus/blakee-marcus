@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/blake-marcus/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://twitter.com/blakeemarcus">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <p> <img src="https://komarev.com/ghpvc/?username=blakee-marcus&label=Profile%20views&color=0e75b6&style=flat" alt="blakee-marcus" /> </p>
   </div>
 </div>
