@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://blakee-marcus.github.io/react-portfolio/](https://blakee-marcus.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [https://blakemarcus.com/](https://blakemarcus.com/)
 
 - 💬 Ask me about **Building Computers and Games!**
 
