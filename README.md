@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hi 👋, I'm Blake Marcus</h1>
-  <h3 align="center">A full-stack developer located in Los Angeles.</h3>
+  <h3 align="center">A Front-End developer located in Los Angeles.</h3>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/blake-marcus/">
