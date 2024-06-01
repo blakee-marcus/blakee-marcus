@@ -17,7 +17,7 @@
 ---
 ### 💻 &nbsp; About Me :
 
-- 🌱 I’m currently working on **A Twitter Clone**
+- 🌱 I’m currently working on **A Mobile Idle Game**
 
 - 👨‍💻 All of my projects are available at [https://blakemarcus.com/](https://blakemarcus.com/)
 
