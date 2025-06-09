@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/blake-marcus/">
       <img src="https://img.shields.io/badge/LinkedIn-ghostly%20blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/blakeemarcus">
+<!--     <a href="https://twitter.com/blakeemarcus">
       <img src="https://img.shields.io/badge/Twitter-midnight?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> -->
   </div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=blakee-marcus&label=Specters%20Sightings&color=7f1d1d&style=flat" alt="Profile views"/>
