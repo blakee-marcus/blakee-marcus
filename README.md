@@ -1,59 +1,113 @@
-<div align="center" style="background-color:#0d1117; color:#c9d1d9; padding: 2rem; border-radius: 12px;">
-  <h1 style="font-family: Uncial Antiqua, serif;">🦇 Blake Marcus</h1>
-  <h3>Full-Stack Developer • UI Necromancer • Code Conjurer</h3>
-
-  <div id="badges" style="margin-top: 1rem;">
-    <a href="https://www.linkedin.com/in/blake-marcus/">
-      <img src="https://img.shields.io/badge/LinkedIn-ghostly%20blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-<!--     <a href="https://twitter.com/blakeemarcus">
-      <img src="https://img.shields.io/badge/Twitter-midnight?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
-  </div>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=blakee-marcus&label=Specters%20Sightings&color=7f1d1d&style=flat" alt="Profile views"/>
-  </p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blakee-marcus&theme=onedark&margin-w=10&title=dark" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-### 🕯 About Me
-
-- 🦴 Full-Stack Developer @ **GoBasile**, conjuring scalable platforms for tech repair shops  
-- 🎲 Building a dice-driven **tower defense roguelike** in Unity, where fate decides your magic  
-- 🕷 UI enchantments powered by Tailwind, Framer Motion, and Lucide icons  
-- 📜 Portfolio of creations and rituals: [**blakemarcus.com**](https://blakemarcus.com)  
-- 🗝 Ask me about dark design systems, Flask backends, or building games with dice and dread  
-- 🧛 Currently DMing a *Curse of Strahd* campaign. Expect mist. And betrayal.
-
----
-
-### 🛠 Spellbook
-
 <div align="center">
-  <img src="https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
-  <img src="https://img.shields.io/badge/Flask-bloodred?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-gravestone?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-moonstone?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Unity-void?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-phantom?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-shadowblue?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>&nbsp;
+
+# Blake Marcus
+
+### Full-Stack Developer | React | Flask | PostgreSQL | Product-Focused UI
+
+I build full-stack applications with clean interfaces, practical backend systems, and thoughtful user flows.
+
+[Portfolio](https://blakemarcus.com) · [LinkedIn](https://www.linkedin.com/in/blake-marcus/) · [Email](mailto:marcusb733@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=blakee-marcus&label=Profile%20views&color=7f1d1d&style=flat" alt="Profile views"/>
+
 </div>
 
 ---
 
-### 🦇 Get in Touch
+## About
 
-- 📧 **marcusb733@gmail.com**  
-- 🕸 [**blakemarcus.com**](https://blakemarcus.com)  
-- 🔮 [LinkedIn Portal](https://www.linkedin.com/in/blake-marcus/)
+I’m a full-stack developer focused on building useful, maintainable web applications.
+
+My work combines frontend engineering, backend development, and product-minded UX. I care about clear interfaces, reliable systems, and tools that make real workflows easier.
+
+Currently, I’m working on **GoBasile**, a marketplace and operations platform for tech repair shops.
 
 ---
 
-> _“There is no exquisite beauty… without some strangeness in the proportion.”_ — Edgar Allan Poe
+## Current Work
+
+### GoBasile
+
+A marketplace and inventory platform for tech repair shops.
+
+Key areas:
+
+- Inventory management
+- Marketplace listings
+- Bounty and offer flows
+- User dashboards
+- Stripe-connected payment flows
+- Responsive UI systems
+- Flask and PostgreSQL backend services
+
+### Blake Marcus Studio
+
+A solo web development studio for founder-led service businesses.
+
+Key areas:
+
+- Conversion-focused websites
+- Service package architecture
+- Deposit-first project flow
+- Brand-aligned frontend systems
+- Local business growth strategy
+
+### Unity Game Project
+
+A dice-driven tower defense roguelike where character abilities are controlled by die rolls.
+
+Key areas:
+
+- Dice-based combat systems
+- Character progression
+- Ability design
+- Meta progression
+- UI clarity and game feel
+
+---
+
+## Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## Focus Areas
+
+- Full-stack product development
+- React component architecture
+- Flask API design
+- PostgreSQL data modeling
+- Marketplace and inventory systems
+- Conversion-focused web design
+- Local business software
+- Game systems design
+
+---
+
+## Connect
+
+- Portfolio: [blakemarcus.com](https://blakemarcus.com)
+- LinkedIn: [linkedin.com/in/blake-marcus](https://www.linkedin.com/in/blake-marcus/)
+- Email: [marcusb733@gmail.com](mailto:marcusb733@gmail.com)
