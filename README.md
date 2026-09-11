@@ -2,133 +2,84 @@
 
 # Blake Marcus
 
-### Full-stack developer building product-minded web apps, business systems, and conversion-focused websites.
+### Software engineer building web products, internal tools, developer tooling, and game prototypes.
 
-I work across React/Next.js frontends, Flask/PostgreSQL backends, Stripe-powered flows, and polished user experiences for real business workflows.
+I like projects where the problem is a little messy and the useful version is not obvious yet. Most of my work starts with figuring out the workflow, cutting unnecessary complexity, and shipping something people can actually use.
 
 [Portfolio](https://www.blakemarcus.com) · [LinkedIn](https://www.linkedin.com/in/blake-marcus/) · [Email](mailto:marcusb733@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=blakee-marcus&label=Profile%20views&color=7f1d1d&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## What I Build
+## What I'm working on
 
-I’m strongest at turning messy product ideas into usable web applications: clear interfaces, practical data models, reliable backend flows, and deployment-ready frontend systems.
+### cOSmo KPI
 
-My experience sits at the intersection of:
+A local-first dashboard for turning weekly employee KPI exports into something store leaders can review and use.
 
-- **Full-stack product development** — React, Next.js, Flask, PostgreSQL, APIs, auth-adjacent flows, dashboards, and CRUD-heavy systems.
-- **Business operations software** — inventory tools, marketplaces, internal dashboards, intake flows, and workflow automation.
-- **Payments and onboarding** — Stripe Checkout, deposit flows, webhook handling, transactional email, and post-payment user journeys.
-- **Conversion-focused websites** — service business websites, package pages, SEO foundations, metadata, sitemaps, and clear calls to action.
-- **Product-minded UI** — responsive layouts, component systems, mobile-first UX, and interfaces that make decisions easier.
-- **Game/system design** — Unity prototypes, roguelike mechanics, dice-driven combat systems, progression loops, and UI clarity.
+It started as a practical operations problem: the data existed, but getting from a CSV export to useful coaching information took too much manual work.
 
----
+The app is built with Next.js, React, TypeScript, and Tailwind CSS. Employee data stays in the browser rather than being sent to a backend.
 
-## Current Focus
+[View the repository](https://github.com/blakee-marcus/cosmokpi)
 
 ### Blake Marcus Studio
 
-A web design and development studio for founder-led service businesses.
+I build websites and small software systems for founder-led businesses.
 
-Recent work includes:
+That work has included Next.js sites, Stripe payment flows, onboarding and intake tools, SEO infrastructure, and production deployments through Vercel and GitHub Actions.
 
-- Next.js marketing site architecture
-- Service package and deposit-first conversion flow
-- Stripe Checkout integration for project deposits
-- Webhook-backed payment fulfillment
-- Protected onboarding and intake pages
-- SEO metadata, sitemap, robots, and Open Graph systems
-- Production deployment and CI/CD hardening on Vercel/GitHub Actions
+[Visit blakemarcus.com](https://www.blakemarcus.com)
 
 ### GoBasile
 
-A marketplace and operations platform for tech repair shops.
+GoBasile is a marketplace and operations platform for independent tech repair shops.
 
-Areas of work include:
+I've worked on inventory management, marketplace listings, shop dashboards, payment flows, and the underlying Flask/PostgreSQL API.
 
-- Inventory management
-- Marketplace listings
-- Bounty and offer flows
-- Shop/user dashboards
-- Flask API design
-- PostgreSQL data modeling
-- Stripe-connected payment flows
-- Responsive React interfaces
+### Developer tooling
 
-### Game Systems
+I've also been building tools for AI-assisted development.
 
-I also prototype game systems, especially dice-driven mechanics and roguelike progression.
+[Kalshi Doctor](https://github.com/blakee-marcus/kalshi-api-engineering) catches common mistakes in Kalshi API integrations and packages the underlying knowledge as an agent skill.
 
-Areas of interest:
+[Next.js Agent Skill](https://github.com/blakee-marcus/nextjs-skill) and [Tailwind CSS Agent Skill](https://github.com/blakee-marcus/tailwindcss-skill) give coding agents version-aware guidance grounded in the current framework documentation.
 
-- Dice-based combat
-- Tower defense systems
-- Character abilities
-- Progression and meta-progression
-- UI/game-feel clarity
+### Game projects
+
+I use Unity to prototype game mechanics and interaction systems.
+
+Most of that work has centered on puzzle systems, dice mechanics, progression, combat, and figuring out how much complexity a mechanic actually needs before it becomes fun.
 
 ---
 
-## Tech I Use
+## Tools I reach for
 
-### Frontend
+**Web:** TypeScript, Next.js, React, Tailwind CSS, Vite
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+**Backend and data:** Python, Flask, PostgreSQL, SQLAlchemy
 
-### Backend & Data
+**Product and infrastructure:** Stripe, Vercel, GitHub Actions, Git, Figma
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-0d1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+**Games:** Unity, C#
 
-### Product, Deployment & Tools
-
-![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white)
+The stack changes depending on the project. I care more about keeping the architecture understandable and the feedback loop short than using a particular framework.
 
 ---
 
-## How I Think About Engineering
+## How I work
 
-- Build the simplest thing that solves the real workflow.
-- Make interfaces clear before making them clever.
-- Treat mobile UX as a first-class requirement.
-- Keep backend flows predictable, observable, and safe to retry.
-- Prefer maintainable systems over impressive complexity.
-- Ship with enough testing, documentation, and deployment discipline that future work is easier.
+I usually start with the smallest version that can answer the important question.
 
----
+For product work, that means understanding the actual workflow before designing around it. For engineering work, it means keeping boundaries clear, making failures observable, and testing the parts that would be expensive to get wrong.
 
-## Areas I’m Interested In
-
-- Full-stack SaaS and marketplace products
-- Local business software
-- Inventory and operations platforms
-- Payment and onboarding flows
-- Conversion-focused web experiences
-- Developer tooling and workflow automation
-- Game systems and interactive prototypes
+I prefer shipping a focused system and learning from it over designing a large architecture around assumptions.
 
 ---
 
-## Connect
+## Elsewhere
 
-- Portfolio: [blakemarcus.com](https://www.blakemarcus.com)
-- LinkedIn: [linkedin.com/in/blake-marcus](https://www.linkedin.com/in/blake-marcus/)
-- Email: [marcusb733@gmail.com](mailto:marcusb733@gmail.com)
+[blakemarcus.com](https://www.blakemarcus.com)
+[LinkedIn](https://www.linkedin.com/in/blake-marcus/)
+[Email](mailto:marcusb733@gmail.com)
